@@ -1,0 +1,2 @@
+This file was created using Visual Studio Code.
+Git and GitHub Lab - CTU
